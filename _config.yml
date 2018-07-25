@@ -2,23 +2,8 @@ title: CNXY/CNC Github Pages
 author: Lynsen Choi
 theme: jekyll-theme-slate
 description: CNXY/CNC's Github By Lynsen Choi
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
+avatar: https://avatars2.githubusercontent.com/u/30281631?s=460&v=4
 footer-links:
-  dribbble:
   email: cnc46@qq.com
-  facebook:
-  flickr:
   github: https://github.com/cnxy
-  instagram:
-  linkedin:
-  pinterest:
-  twitter: cnxycn
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-
 url: http://www.cnc6.cn
