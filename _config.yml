@@ -1,9 +1,7 @@
 title: CNXY/CNC
 author: Lynsen Choi
-theme: jekyll-theme-minimal
+logo: /assets/img/logo.png
 description: CNXY/CNC's Github By Lynsen Choi
-avatar: https://avatars2.githubusercontent.com/u/30281631?s=460&v=4
-footer-links:
-  email: cnc46@qq.com
-  github: https://github.com/cnxy
-url: http://www.cnc6.cn
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
