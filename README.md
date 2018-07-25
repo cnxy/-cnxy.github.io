@@ -1,5 +1,15 @@
 # CNXY's Github Pages
 
+## 关于
+以下是我的联系方式，如有任何问题，可以通过以下方式进行联系：
+
+| 序号 | 名称 |       地址       |        备注       |
+|------|------|------------------|-------------------|
+|  1   | 博客 |http://www.cnc6.cn|      博客留言     |
+|  2   | 邮箱 |   cnc46@qq.com   |      发邮件       |
+|  3   |Github|https://www.github.com/cnxy|Open Issue|
+
+注：Github及博客仅记录个人学习记录及其他转载的内容，仅供参考！
 ## Dapper Github中文翻译
 1. Dapper中文：[翻译版](https://github.com/cnxy/Dapper-zh-cn)
 2. 本文翻译自：[StackExchange.Dapper](https://github.com/StackExchange/Dapper)
