@@ -1,4 +1,4 @@
-# CNXY's Github Pages
+# CNC/CNXY's Github Pages
 
 ## 关于
 以下是我的联系方式，如有任何问题，可以通过以下方式进行联系：
