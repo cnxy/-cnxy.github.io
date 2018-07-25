@@ -5,3 +5,5 @@ description: CNXY/CNC's Github By Lynsen Choi
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+gem "github-pages", group: :jekyll_plugins
