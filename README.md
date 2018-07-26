@@ -6,7 +6,7 @@
 |序号|名称|地址|备注|
 |----|------|--|----|
 |  1 | 博客 |[http://www.cnc6.cn](http://www.cnc6.cn)|博客留言|
-|  2 | 邮箱 |[cnc46@qq.com](mailto:cnc46@qq.com)|发邮件|
+|  2 | 邮箱 |[cnc@cnc6.cn](mailto:cnc@cnc6.cn)|发邮件|
 |  3 |Github|[https://www.github.com/cnxy](https://www.github.com/cnxy)|Open Issue|
 
 注：Github及博客仅记录个人学习记录及其他转载的内容，仅供参考！
